@@ -1,5 +1,5 @@
 # Projects
 
 #### Part 1 - Computer Graphics
-https://martindlt.github.io/datamaskingrafikk/
+<a href="https://martindlt.github.io/datamaskingrafikk">Main</a>
 
